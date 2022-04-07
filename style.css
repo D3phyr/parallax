@@ -312,6 +312,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   margin: auto auto 0 auto;
+    padding-left: 70px;
   gap: 20px;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -377,7 +378,7 @@ body {
 .main-section .main-section__mountain {
   position: absolute;
   width: 100%;
-  height: 922px;
+  height: 807px;
   background-image: url("/parallax/assets/mountain1.png");
   background-size: 100%;
   background-position: center -130px;
